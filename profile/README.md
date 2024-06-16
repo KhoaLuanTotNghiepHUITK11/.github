@@ -1,4 +1,18 @@
-## Hi there 👋
+## Khoá luận tốt nghiệp
+Trường ĐH Công Thương TP. HCM
+# Đề tài: Xây dựng trang web cung cấp các dụng cụ làm bánh
+## Thành viên
+| Tên | Phân công |
+| ------------- |:-------------:| 
+| Nguyễn Quang Trung | Ứng dụng Web, Ứng dụng Flutter |
+| Nguyễn Thị Ngọc Sương | Mô hình hoá nghiệp vụ, cơ sở dữ liệu |
+| Lê Bảo Thiên Trân | Ứng dụng web |
+# Công nghệ sử dụng
+- ASP.NET CORE
+- GOOGLE FIREBASE
+- GOOGLE CLOUD COMPUTING
+- MICROSOFT SQL SERVER
+- FLUTTER
 
 <!--
 
